@@ -1,0 +1,14 @@
+fr/bank/account/model/Client.class
+fr/bank/account/model/Client$ClientBuilder.class
+fr/bank/account/BankAccountProject.class
+fr/bank/account/model/Account$AccountBuilder.class
+fr/bank/account/model/OperationType.class
+fr/bank/account/exception/InsufficientFundException.class
+fr/bank/account/model/AccountType.class
+fr/bank/account/exception/AccountNotFoundException.class
+fr/bank/account/model/Operation$OperationBuilder.class
+fr/bank/account/service/ClientService.class
+fr/bank/account/service/OperationService.class
+fr/bank/account/model/Operation.class
+fr/bank/account/model/Account.class
+fr/bank/account/service/AccountService.class
